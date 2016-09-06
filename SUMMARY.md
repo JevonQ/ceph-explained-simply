@@ -14,5 +14,5 @@
         * [1.2.3 Ceph测试体系](introduction/community/123-testing.md)
         * [1.2.4 Ceph问题追踪](introduction/community/124-issuetrack.md)
         * [1.2.5 Ceph文档体系](introduction/community/125-document.md)
-    * [1.3 了解Ceph社区](introduction/conclusion/README.md)
+    * [1.3 本章小结](introduction/conclusion/README.md)
 
